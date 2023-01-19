@@ -16,10 +16,10 @@
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "homepage": "https://github.com/adobe/aem-react-core-wcm-components-base/blob/master/README.md",
+  "homepage": "https://github.com/abhishekdixitadobe/aem-react-core-wcm-components-base/blob/master/README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/adobe/aem-react-core-wcm-components-base"
+    "url": "https://github.com/abhishekdixitadobe/aem-react-core-wcm-components-base"
   },
   "scripts": {
     "dev": "next dev",
