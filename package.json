@@ -16,10 +16,10 @@
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "homepage": "https://github.com/abhishekdixitadobe/aem-react-core-wcm-components-base/blob/master/README.md",
+  "homepage": "https://github.com/adobe/aem-react-core-wcm-components-base/blob/master/README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/abhishekdixitadobe/aem-react-core-wcm-components-base"
+    "url": "https://github.com/adobe/aem-react-core-wcm-components-base"
   },
   "scripts": {
     "dev": "next dev",
@@ -29,15 +29,15 @@
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
-    "@testing-library/react": "^13.3.0",
+    "@testing-library/react": "*",
     "@testing-library/user-event": "^13.5.0",
     "next": "^12.3.4",
-    "react": "^16.14.0",
+    "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "web-vitals": "^2.1.4"
   },
   "peerDependencies": {
-    "react": "^16.14.0",
+    "react": "^18.2.0",
     "react-router-dom": "^5.2.0"
   },
   "devDependencies": {
@@ -49,14 +49,13 @@
     "@semantic-release/git": "^9.0.0",
     "@semantic-release/github": "^7.2.0",
     "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "@types/enzyme": "^3.10.5",
     "@types/enzyme-adapter-react-16": "^1.0.6",
     "@types/jest": "^26.0.14",
     "@types/node": "^12.20.10",
-    "@types/react": "^16.14.5",
-    "@types/react-dom": "^16.9.8",
+    "@types/react": "*",
+    "@types/react-dom": "*",
     "@types/react-router-dom": "^5.1.5",
     "@typescript-eslint/eslint-plugin": "^3.9.0",
     "@typescript-eslint/parser": "^3.9.0",
@@ -80,8 +79,8 @@
     "jsdoc": "^3.6.5",
     "markdown-include": "^0.4.3",
     "prop-types": "^15.7.2",
-    "react": "^16.14.0",
-    "react-dom": "^16.14.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-router-dom": "^5.2.0",
     "semantic-release": "^17.4.1",
     "shx": "^0.3.2",
